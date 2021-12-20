@@ -198,3 +198,6 @@ blog.csdn.net###toolBarBox
 
 ! 屏蔽推特在大屏浏览器上，右下角的私信窗口。这个窗口在我放大页面会影响到我，比如说影响长截图。
 twitter.com###layers > div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-1xcajam.r-zchlnj
+
+! 屏蔽正版中国网站上的取消广告拦截的提示
+getitfree.cn###wrhpiaylo-blanket
