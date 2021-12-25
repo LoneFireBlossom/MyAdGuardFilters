@@ -206,3 +206,6 @@ getitfree.cn###wrhpiaylo-blanket
 bangumi.tv###columnHomeB
 bangumi.tv###prgGuideWrapper
 bangumi.tv###footer
+bgm.tv###columnHomeB
+bgm.tv###prgGuideWrapper
+bgm.tv###footer
