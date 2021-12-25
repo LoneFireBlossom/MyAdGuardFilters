@@ -201,3 +201,8 @@ twitter.com###layers > div.css-1dbjc4n.r-aqfbo4.r-1p0dtai.r-1d2f490.r-12vffkv.r-
 
 ! 屏蔽正版中国网站上的取消广告拦截的提示
 getitfree.cn###wrhpiaylo-blanket
+
+! 屏蔽Bangumi首页的所有内容
+bangumi.tv###columnHomeB
+bangumi.tv###prgGuideWrapper
+bangumi.tv###footer
