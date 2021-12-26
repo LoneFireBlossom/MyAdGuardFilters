@@ -209,3 +209,6 @@ bangumi.tv###footer
 bgm.tv###columnHomeB
 bgm.tv###prgGuideWrapper
 bgm.tv###footer
+
+! 屏蔽百度贴吧“该帖子已经被删除”下面的热门帖子之类的玩意儿
+tieba.baidu.com###error_404_iframe
