@@ -212,3 +212,6 @@ bgm.tv###footer
 
 ! 屏蔽百度贴吧“该帖子已经被删除”下面的热门帖子之类的玩意儿
 tieba.baidu.com###error_404_iframe
+
+! 屏蔽stack overflow在我屏蔽了它的cookie提醒后的”我们无法设置你的cookie偏好“的提醒
+stackoverflow.com##div.s-toast.js-toast.js-stacks-managed-popup.js-fades-with-aria-hidden:nth-child(26) > aside.s-notice.s-notice__danger
