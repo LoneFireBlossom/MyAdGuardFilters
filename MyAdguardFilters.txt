@@ -215,3 +215,13 @@ tieba.baidu.com###error_404_iframe
 
 ! 屏蔽stack overflow在我屏蔽了它的cookie提醒后的”我们无法设置你的cookie偏好“的提醒
 stackoverflow.com##div.s-toast.js-toast.js-stacks-managed-popup.js-fades-with-aria-hidden:nth-child(26) > aside.s-notice.s-notice__danger
+
+! 屏蔽了知乎视频的侧栏
+zhihu.com##.ZVideo-sideColumn, .ZVideo-sideColumnWeb
+
+! 屏蔽了stackoverflow对找不到cookie偏好设置的提醒
+apple.stackexchange.com##.s-notice, .s-notice__danger
+
+! 屏蔽了B站的新版首页
+bilibili.com###i_cecream
+
