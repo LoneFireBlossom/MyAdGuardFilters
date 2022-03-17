@@ -67,12 +67,6 @@ bbs.vcb-s.com##.pls
 zhihu.com##.PositiveLabelBar-content.js-evernote-checked
 zhihu.com##.PositiveLabelBar.PositiveLabelBar--link.js-evernote-checked
 zhihu.com##.PositiveLabelBar.PositiveLabelBar--link
-baike.baidu.com##.side-content
-baike.baidu.com##.wgt-footer-main
-baike.baidu.com##.navbar-bg-top
-baike.baidu.com###J-declare
-baike.baidu.com##.declare
-baike.baidu.com##.navbar-bg
 zhihu.com##.Card.ReadingMembership
 zhidao.baidu.com##.text-chain-content
 zhidao.baidu.com##.text-chain-title
@@ -97,7 +91,6 @@ hhkaoyan.com##.faq_title
 hhkaoyan.com##.info_title
 zhuanlan.zhihu.com##.Recommendations-Main
 zhihu.com##.Card-section.Recommendations-list
-baike.baidu.com##.topA
 baidu.com##.links-wrap
 baidu.com###virus-2020
 baidu.com##.s-top-right-text.c-font-normal.c-color-red.dot
@@ -152,13 +145,6 @@ m.blog.sina.com.cn##.Bp_recentLike
 m.blog.sina.com.cn##div[style="top: 0px; left: 0px; height: 100%; width: 30px; background: rgba(0, 0, 0, 0); position: fixed;"]
 m.blog.sina.com.cn##.side
 m.blog.sina.com.cn###module_2050
-baike.baidu.com###side-share > div.share-list:first-child
-baike.baidu.com###J-task-tip
-baike.baidu.com##.task-tip
-baike.baidu.com###lemmaWgt-secondsKnow
-baike.baidu.com##.lemmaWgt-secondsKnow-pageBg.lemmaWgt-secondsKnow-isScience-pageBg
-baike.baidu.com##.posterFlag.expert-icon
-baike.baidu.com##.page-background
 zhuanlan.zhihu.com##.ContentItem-actions
 jianshu.com###layout-default > div.main-view:nth-child(2) > button.call-app-btn:nth-child(2)
 zhihu.com##.ModalWrap-content
