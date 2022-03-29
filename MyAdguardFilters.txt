@@ -98,35 +98,9 @@ zhihu.com###Popover1-toggle
 baidu.com###s-top-left
 baidu.com##.s-top-left.s-isindex-wrap
 baidu.com###lm-new
-bilibili.com##.main
-search.bilibili.com##.hot-search
-search.bilibili.com##.history
-search.bilibili.com##.international-footer
-search.bilibili.com##.home-suggest.clearfix
-search.bilibili.com##.tips-link
-bilibili.com##.first-screen.b-wrap
-bilibili.com##.primary-menu-itnl
-bilibili.com##.zone-list-box
-bilibili.com###bili_report_douga
-bilibili.com##.space-between.report-wrap-module.report-scroll-module
-bilibili.com##.time-line
-bilibili.com##.space-between
-bilibili.com##.item.sortable
-bilibili.com##.ear.bilifont.bili-icon_youdaohang_xiaodianshitianxian
-bilibili.com##.item.sort
-bilibili.com##.item.back-top
-bilibili.com##.international-footer
-bilibili.com##.banner-link
-bilibili.com##.bili-banner
-search.bilibili.com##.suggest-wrap
-bilibili.com###reco_list
-bilibili.com##.recommend-list.report-wrap-module.report-scroll-module
-bilibili.com##.pl__card
-bilibili.com##.pl__head
 zhihu.com##.Tag.QuestionTopic
 zhihu.com##.QuestionInvitation-content
 zhihu.com##.Topbar
-bilibili.com##.ad-report.ad-floor.report-wrap-module.report-scroll-module
 zhidao.baidu.com##.wgt-push
 zhidao.baidu.com##.task-list-button
 zhidao.baidu.com##.jump-goto-star
@@ -134,8 +108,6 @@ zhidao.baidu.com##.nav-menu.line
 zhidao.baidu.com##.nav-show-control
 zhidao.baidu.com##.exp-topwld-tip
 zhidao.baidu.com##.iknow-icons.wgt-header-title-btn
-bilibili.com##.vcd
-bilibili.com##.num
 mofanpy.com###bottom-donation-title
 mofanpy.com##.hover-move
 mofanpy.com###bottom-donation-section
@@ -151,7 +123,6 @@ zhihu.com##.ModalWrap-content
 zhihu.com##.ModalExp-content.ModalExp-modalShow
 zhihu.com##.ModalExp-background
 zhihu.com##.OpenInAppButton.OpenInApp.is-shown
-bilibili.com##.bp-red-point
 xiebruce.top##.center-div
 xiebruce.top###popup
 search.bilibili.com##.notify-count
@@ -159,7 +130,6 @@ youtube.com##.style-scope.ytd-watch-next-secondary-results-renderer
 v2ex.com###TopicsHot
 jianshu.com##._3Z3nHf
 m.sohu.com###ceans_15650 > div.nice-img-clz
-bilibili.com###nav_searchform > input.nav-search-keyword:first-child
 sohu.com###hot-news
 zhihu.com###root > div > main.App-main:nth-child(3) > div.Topstory.Topstory--old
 sohu.com###articleAllsee
@@ -167,9 +137,6 @@ sohu.com##.groom-read
 sohu.com###mpbox
 sohu.com###right-side-bar
 sohu.com###article-do
-bilibili.com##.rcmd-list
-bilibili.com##.notify-count
-
 blog.csdn.net###csdn-toolbar > div.rightmenu.floatR.clearfix.unlogin:last-child > div.search_box:first-child > input.search_input.has_hot_word:nth-child(2)
 blog.csdn.net###csdn-toolbar > div.toolbar-inside > div.toolbar-container > div.toolbar-container-middle:nth-child(2) > div.toolbar-search.onlySearch > div.toolbar-search-container:first-child
 blog.csdn.net##span.feed-Sign-span:nth-child(18)
@@ -208,9 +175,6 @@ zhihu.com##.ZVideo-sideColumn, .ZVideo-sideColumnWeb
 ! 屏蔽了stackoverflow对找不到cookie偏好设置的提醒
 apple.stackexchange.com##.s-notice, .s-notice__danger
 
-! 屏蔽了B站的新版首页
-bilibili.com###i_cecream
-
 ! 屏蔽推特网页上「通知」按钮上的数字提示
 twitter.com###react-root > div.css-1dbjc4n.r-13awgt0.r-12vffkv > div.css-1dbjc4n.r-13awgt0.r-12vffkv > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010:last-child > header.css-1dbjc4n.r-obd0qt.r-16y2uox.r-lrvibr.r-1g40b8q:nth-child(3) > div.css-1dbjc4n.r-o96wvk > div.css-1dbjc4n.r-aqfbo4.r-1pi2tsx.r-1xcajam.r-ipm5af > div.css-1dbjc4n.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-1e081e0.r-o96wvk > div.css-1dbjc4n.r-1habvwh:first-child > div.css-1dbjc4n.r-15zivkp.r-1bymd8e.r-13qz1uu:nth-child(2) > nav.css-1dbjc4n.r-1habvwh.r-eqz5dr > a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1habvwh.r-1loqt21.r-6koalj.r-eqz5dr.r-16y2uox.r-1ny4l3l.r-oyd9sg.r-13qz1uu:nth-child(3) > div.css-1dbjc4n.r-1awozwy.r-sdzlij.r-18u37iz.r-1777fci.r-dnmrzs.r-xyw6el.r-o7ynqc.r-6416eg > div.css-1dbjc4n:first-child > div.css-901oao.r-1awozwy.r-l5o3uw.r-11mg6pl.r-sdzlij.r-1phboty.r-rs99b7.r-1tjplnt.r-jwli3a.r-6koalj.r-1q142lx.r-37j5jr.r-1gkfh8e.r-16dba41.r-10ptun7.r-1777fci.r-56xrmm.r-285fr0.r-u8s1d.r-kquydp.r-1m4drjs.r-lrvibr.r-3s2u2q.r-qvutc0:last-child
 ! 屏蔽CSDN右上角那个「创作」按钮。一闪一闪的很烦人。
@@ -219,3 +183,5 @@ blog.csdn.net###csdn-toolbar > div.toolbar-inside > div.toolbar-container > div.
 baike.baidu.com##div.body-wrapper:nth-child(4) > div.content-wrapper:nth-child(2) > div.content > div.main-content.J-content:first-child > dl.lemmaWgt-lemmaTitle.lemmaWgt-lemmaTitle-:nth-child(4) > dd.lemmaWgt-lemmaTitle-title.J-lemma-title > a.lemma-discussion.cmn-btn-hover-blue.cmn-btn-28.j-discussion-link:nth-child(7) > span.num:last-child
 baike.baidu.com##.share-list
 
+! 屏蔽了B站的新版首页
+bilibili.com###i_cecream
