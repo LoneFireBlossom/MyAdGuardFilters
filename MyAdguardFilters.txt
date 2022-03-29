@@ -183,5 +183,19 @@ blog.csdn.net###csdn-toolbar > div.toolbar-inside > div.toolbar-container > div.
 baike.baidu.com##div.body-wrapper:nth-child(4) > div.content-wrapper:nth-child(2) > div.content > div.main-content.J-content:first-child > dl.lemmaWgt-lemmaTitle.lemmaWgt-lemmaTitle-:nth-child(4) > dd.lemmaWgt-lemmaTitle-title.J-lemma-title > a.lemma-discussion.cmn-btn-hover-blue.cmn-btn-28.j-discussion-link:nth-child(7) > span.num:last-child
 baike.baidu.com##.share-list
 
-! 屏蔽了B站的新版首页
-bilibili.com###i_cecream
+! biliplus-自定义顶栏插件
+! 使用脚本提供的顶栏替换原版的主站顶栏 (非主站不替换), 启用后还可以在反广告插件 (例如 ABP) 中配置禁止原版顶栏的消息 iframe 以提升性能:
+message.bilibili.com/pages/nav/index_new_pc_sync
+message.bilibili.com/pages/nav/index_new_sync
+
+! 屏蔽B站主页所有元素、其它页面的无关紧要的边栏。（适用于新版视频界面和搜索界面）
+bilibili.com##.bili-layout
+bilibili.com##.bili-footer
+bilibili.com##.bili-header__channel
+bilibili.com##.header-banner__inner
+bilibili.com##.bili-header__banner
+bilibili.com##.nav-search-input
+bilibili.com##.center-search__bar
+bilibili.com##.recommend-list-v1
+bilibili.com###live_recommand_report
+
