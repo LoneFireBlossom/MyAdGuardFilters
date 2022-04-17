@@ -199,3 +199,11 @@ bilibili.com##.center-search__bar
 bilibili.com##.recommend-list-v1
 bilibili.com###live_recommand_report
 
+! 不应屏蔽华硕路由器的设置界面，如果屏蔽的话会导致界面出问题
+@@||router.asus.com^$important,document
+
+! 如果屏蔽speedtest会导致无法测量上传速度
+@@||www.speedtest.net^$important,document
+
+! 屏蔽B站搜索框下面的热词提示
+search.bilibili.com##.search-panel.search-panel-popover
