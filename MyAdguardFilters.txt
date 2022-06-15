@@ -207,3 +207,31 @@ bilibili.com###live_recommand_report
 
 ! 屏蔽B站搜索框下面的热词提示
 search.bilibili.com##.search-panel.search-panel-popover
+
+! 屏蔽NAS上QB的「编辑」菜单，上次不小心点了这个可害惨我了。
+! 但是这个菜单每次刷新时屏蔽总会失效。哎。
+10.205.41.141###pauseAllLink
+10.205.41.141###resumeAllLink
+@@||ja.wikipedia.org^$important,document
+@@||stu.bupt.edu.cn^$important,document
+@@||iptorrents.com^$important,document
+@@||dmhy.b168.net^$important,document
+@@||router.asus.com^$important,document
+
+! 屏蔽FLsnow字幕网站上的版权提醒，因为每点进一个页面都会出现实在是太烦了。我会注意版权的。
+subbers.org##.modal-body
+subbers.org##.modal-footer
+subbers.org###copyrightConsent
+subbers.org##.modal.fade.show
+subbers.org##.modal-backdrop.fade.show
+
+! 屏蔽B站搜索框下面的热词，搜索历史等所有东西
+search.bilibili.com##.search-panel.search-panel-popover
+
+! 屏蔽CSDN菜单栏上除了账号以外的所有按钮，那些广告是动态的容易吸引注意力，很烦
+csdn.net##.toolbar-menus.csdn-toolbar-fl
+csdn.net##.toolbar-btn.toolbar-btn-vip.csdn-toolbar-fl
+csdn.net##.toolbar-btn.toolbar-btn-write.csdn-toolbar-fl.toolbar-subMenu-box
+csdn.net##.toolbar-btn.toolbar-btn-dynamic.csdn-toolbar-fl.toolbar-dynamic-box
+csdn.net##.toolbar-btn.toolbar-btn-msg.csdn-toolbar-fl
+csdn.net##.toolbar-btn.toolbar-btn-collect.csdn-toolbar-fl
