@@ -235,3 +235,7 @@ csdn.net##.toolbar-btn.toolbar-btn-write.csdn-toolbar-fl.toolbar-subMenu-box
 csdn.net##.toolbar-btn.toolbar-btn-dynamic.csdn-toolbar-fl.toolbar-dynamic-box
 csdn.net##.toolbar-btn.toolbar-btn-msg.csdn-toolbar-fl
 csdn.net##.toolbar-btn.toolbar-btn-collect.csdn-toolbar-fl
+
+! B站bilibili-evolved弄的标题栏里的通知蓝点
+bilibili.com##.notify-count
+
