@@ -239,3 +239,9 @@ csdn.net##.toolbar-btn.toolbar-btn-collect.csdn-toolbar-fl
 ! B站bilibili-evolved弄的标题栏里的通知蓝点
 bilibili.com##.notify-count
 
+! Bilibili-evovled的通知栏提醒点
+search.bilibili.com##.notify-count
+
+! 知乎的搜索框
+zhihu.com##.SearchBar-input.css-11bw1mm.Input-wrapper.Input-wrapper--grey
+
