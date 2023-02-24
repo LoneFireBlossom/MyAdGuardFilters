@@ -243,5 +243,5 @@ bilibili.com##.notify-count
 search.bilibili.com##.notify-count
 
 ! 知乎的搜索框
-zhihu.com##.Input
+zhihu.com###Popover1-toggle
 
