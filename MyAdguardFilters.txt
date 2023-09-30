@@ -243,3 +243,7 @@ zhihu.com###Popover1-toggle
 bilibili.com##.pop-live-small-mode.part-undefined
 bilibili.com###right-bottom-banner
 
+! BiliBili移动端Safari界面上的广告
+bilibili.com##.ad-report, .video-card-ad-small
+bilibili.com##.pop-live-small-mode, .part-undefined
+bilibili.com###right-bottom-banner
