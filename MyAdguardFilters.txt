@@ -247,3 +247,4 @@ bilibili.com###right-bottom-banner
 bilibili.com##.ad-report, .video-card-ad-small
 bilibili.com##.pop-live-small-mode, .part-undefined
 bilibili.com###right-bottom-banner
+bilibili.com##.ad-report, .video-card-ad-small
