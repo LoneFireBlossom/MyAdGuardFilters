@@ -254,3 +254,6 @@ tieba.baidu.com###forum-card-banner
 @@||bbs.saraba1st.com^$important,document
 baidu.com###s-hotsearch-wrapper
 
+屏蔽nhentai
+*nhentai.*
+
