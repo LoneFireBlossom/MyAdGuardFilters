@@ -255,5 +255,6 @@ tieba.baidu.com###forum-card-banner
 baidu.com###s-hotsearch-wrapper
 
 屏蔽nhentai
-*nhentai.*
+nhentai.*
+*.nhentai.*
 
