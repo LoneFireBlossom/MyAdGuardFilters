@@ -83,10 +83,6 @@ bkso.baidu.com##.navbar-bg
 zhihu.com##.AppBanner-layout
 yzfs.bupt.edu.cn##td[style="text-align: center; font-size: 15px; height: 60px; color:red; font-weight:bold"]
 tieba.baidu.com##.u_menu_item.u_menu_news
-bbs.saraba1st.com###myprompt
-bbs.saraba1st.com##.a.showmenu.new
-bbs.saraba1st.com###myprompt_menu
-bbs.saraba1st.com##.p_pop
 hhkaoyan.com##.faq_title
 hhkaoyan.com##.info_title
 zhuanlan.zhihu.com##.Recommendations-Main
@@ -251,7 +247,6 @@ bilibili.com##.ad-report, .video-card-ad-small
 
 @@||wiki.biligame.com^$important,document
 tieba.baidu.com###forum-card-banner
-@@||bbs.saraba1st.com^$important,document
 baidu.com###s-hotsearch-wrapper
 
 屏蔽nhentai
