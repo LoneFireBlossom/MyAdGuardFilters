@@ -249,7 +249,12 @@ bilibili.com##.ad-report, .video-card-ad-small
 tieba.baidu.com###forum-card-banner
 baidu.com###s-hotsearch-wrapper
 
-屏蔽nhentai
+! 屏蔽nhentai
 nhentai.*
 *.nhentai.*
+
+! 屏蔽知乎新版首页和顶栏
+zhihu.com##.Topstory-container
+zhihu.com###Popover1-toggle
+zhihu.com##.Button.SearchBar
 
