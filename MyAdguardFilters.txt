@@ -257,4 +257,7 @@ nhentai.*
 zhihu.com##.Topstory-container
 zhihu.com###Popover1-toggle
 zhihu.com##.Button.SearchBar
+zhihu.com##.css-72pd91
+zhihu.com##.SearchBar-input
+
 
