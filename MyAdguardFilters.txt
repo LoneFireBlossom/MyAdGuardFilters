@@ -190,8 +190,6 @@ bilibili.com##.bili-footer
 bilibili.com##.bili-header__channel
 bilibili.com##.header-banner__inner
 bilibili.com##.bili-header__banner
-bilibili.com##.nav-search-input
-bilibili.com##.center-search__bar
 bilibili.com##.recommend-list-v1
 bilibili.com###live_recommand_report
 
@@ -220,9 +218,6 @@ subbers.org##.modal-footer
 subbers.org###copyrightConsent
 subbers.org##.modal.fade.show
 subbers.org##.modal-backdrop.fade.show
-
-! 屏蔽B站搜索框下面的热词，搜索历史等所有东西
-search.bilibili.com##.search-panel.search-panel-popover
 
 ! 屏蔽CSDN菜单栏上除了账号以外的所有按钮，那些广告是动态的容易吸引注意力，很烦
 csdn.net##.toolbar-menus.csdn-toolbar-fl
