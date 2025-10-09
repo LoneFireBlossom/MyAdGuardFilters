@@ -255,4 +255,12 @@ zhihu.com##.Button.SearchBar
 zhihu.com##.css-72pd91
 zhihu.com##.SearchBar-input
 
+! 聚精会神搞建设，一心一意谋发展网页
+chinanews.com##.\39 v
+chinanews.com##.\31 2v
+||chinanews.com/images/mrgx.gif
+||chinanews.com/test/test/2.html
+||chinanews.com/images/logo2.gif
+chinanews.com##.\31 4v
+||chinanews.com/images/images1/fanti1.gif
 
