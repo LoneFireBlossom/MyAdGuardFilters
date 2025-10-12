@@ -263,4 +263,5 @@ chinanews.com##.\31 2v
 ||chinanews.com/images/logo2.gif
 chinanews.com##.\31 4v
 ||chinanews.com/images/images1/fanti1.gif
+chinanews.com##.\31 3v
 
