@@ -185,13 +185,7 @@ message.bilibili.com/pages/nav/index_new_pc_sync
 message.bilibili.com/pages/nav/index_new_sync
 
 ! 屏蔽B站主页所有元素、其它页面的无关紧要的边栏。（适用于新版视频界面和搜索界面）
-bilibili.com##.bili-layout
-bilibili.com##.bili-footer
-bilibili.com##.bili-header__channel
-bilibili.com##.header-banner__inner
-bilibili.com##.bili-header__banner
-bilibili.com##.recommend-list-v1
-bilibili.com###live_recommand_report
+bilibili.com###app > div.bili-feed4:last-child
 
 ! 不应屏蔽华硕路由器的设置界面，如果屏蔽的话会导致界面出问题
 @@||router.asus.com^$important,document
@@ -265,3 +259,5 @@ chinanews.com##.\31 4v
 ||chinanews.com/images/images1/fanti1.gif
 chinanews.com##.\31 3v
 
+
+zhihu.com##.SearchBar-input
